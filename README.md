@@ -3,9 +3,10 @@ A terminal based app to display top 10 repo from the selected keyword
 
 #install
 Linux
-...
-sudo cp repo.py /usr/local/bin
-...
+```
+sudo cp repo.py /usr/local/bin 
+
+```
 
 Windows
 
